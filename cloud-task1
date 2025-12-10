@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Static Web App</title>
+</head>
+<body>
+
+    <h1>My First Cloud Deployment</h1>
+
+    <p>Hello, I am Mia Velarde from Pasay City. Nice meeting you!</p>
+
+    <img src="https://drive.google.com/file/d/1we12uf3txsRwX_px9pjaF3QGTv8cSgYk/view?usp=drive_link" alt="Mia Velarde 2x2 Picture" width="400">
+
+</body>
+</html>
